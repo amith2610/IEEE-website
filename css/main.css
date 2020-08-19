@@ -416,10 +416,10 @@ input[type="button"]:hover {
 	color: white;
 }
 .button.primary, button.primary {
-	background: #f26522;
+	background: #d82f29;
 }
 .button.primary:hover, button.primary:hover {
-	background: #e3520d;
+	background: #d82f29;
 }
 button.medium, .button.medium {
 	font: 15px/30px "raleway-bold", sans-serif;
@@ -469,10 +469,10 @@ button.full-width, .button.full-width {
 	background: #f0cc00;
 }
 .button.red {
-	background: #ff6163;
+	background: #d82f29;
 }
 .button.red:hover {
-	background: #ff474a;
+	background: #d82f29;
 }
 .button.green {
 	background: #9bc724;
@@ -493,7 +493,7 @@ button.full-width, .button.full-width {
 	background: #a970c1;
 }
 .button.orange {
-	background: #f5731c;
+	background: #d82f29;
 }
 .button.orange:hover {
 	background-color: #ed650a;
@@ -531,11 +531,11 @@ button.full-width, .button.full-width {
 	color: #fff;
 }
 .button.stroke.red {
-	border-color: #ff6163;
-	color: #ff6163;
+	border-color: #d82f29;
+	color: #d82f29;
 }
 .button.stroke.red:hover {
-	background: #ff6163 !important;
+	background: #d82f29 !important;
 	color: #fff;
 }
 .button.stroke.green {
@@ -904,7 +904,7 @@ ul#nav li a:active {
 	background-color: transparent !important;
 }
 ul#nav li.current a {
-	background: #f26522;
+	background: darkred;
 	color: white;
 	height: 80px; 
 }
@@ -1133,7 +1133,7 @@ footer #go-top a:hover {
 /* =================================================================== */
 
  hr{
-	border: solid #f26522;
+	border: solid #c02a2a;
 	border-width: 3px 0 0;
 	width: 90px;
 	margin: 11px auto 15px;
@@ -1296,7 +1296,7 @@ footer #go-top a:hover {
 	width: 100%;
 	text-align: center;
 	position: relative;
-	background: linear-gradient(to bottom right, #ffcc66 0%, #ff9933 100%);
+	background: linear-gradient(to bottom right,  #545252 0%, #080505 100%);
 }
 .ie8 #hero { background: #12151b; }
 
@@ -2030,7 +2030,7 @@ footer #go-top a:hover {
 .event-card{
 	height: 280px;
 	width: 240px;
-	background:rgba(255,204,204,0.5);
+	background:rgba(134, 132, 132, 0.5);
 	padding: 10px;
 	float: left;
 	margin-left: 30px;
@@ -2038,7 +2038,7 @@ footer #go-top a:hover {
 
 .event-title{
 	font-size: 1.2em;
-	color: #f26522;
+	color: #101010;;
 	text-decoration-style: bold;
 	margin: 5px;
 }
