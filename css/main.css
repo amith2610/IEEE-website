@@ -904,8 +904,8 @@ ul#nav li a:active {
 	background-color: transparent !important;
 }
 ul#nav li.current a {
-	background: darkred;
-	color: white;
+	background: #3f93c3;
+	color: black;
 	height: 80px; 
 }
 
@@ -1296,7 +1296,7 @@ footer #go-top a:hover {
 	width: 100%;
 	text-align: center;
 	position: relative;
-	background: linear-gradient(to bottom right,  #545252 0%, #080505 100%);
+	background: linear-gradient(to bottom right,  #f2ecec 0%, #3987e8 100%);
 }
 .ie8 #hero { background: #12151b; }
 
@@ -1336,7 +1336,7 @@ footer #go-top a:hover {
 }
 
 .flexslider .cover{
-	height: 90% !important;
+	height: 600px !important;
 	width: 100% !important;	
 }
 
@@ -1447,10 +1447,10 @@ footer #go-top a:hover {
 	box-shadow: 0 0px 5px 0px rgba(0, 0, 0, 0.5);
 }
 .hero-content .flex-control-paging li a:hover {
-	border-color: #f26522;
+	border-color:black;
 }
 .hero-content .flex-control-paging li a.flex-active {
-	border-color: #f26522;
+	border-color: black;
 	cursor: default;
 }
 
