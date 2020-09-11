@@ -1,0 +1,67 @@
+div.Heads{
+    /* width: 100vw; */
+    background-color: rgb(235, 231, 231);
+    padding-bottom: 10vh;
+}
+div.team{
+    /* width: 100vw; */
+}
+.team .row{
+    width:85%;
+    margin: 0 auto;        
+}
+div.main-heading-teams{
+    margin-bottom: 10vh;
+}
+div.soceity{
+    margin-top: 8vh;
+}
+.team .row{
+    margin-top: 3vh;
+}
+.team .row.middle{
+    width: 75%;
+    margin: auto;
+}
+.team .row .col-sm{
+    text-align: center; 
+    margin-top: 2vh;   
+}
+.team .row .col-sm img{
+    width: 70px;
+    height: 70px;
+    display: inline;
+    float: left;
+}
+div.info{
+    position: relative;
+    display: inline;
+    float: left;
+   
+}
+div.info h6{
+    display: inline;
+    margin-top: 3vh;   
+    margin-left: 2vw;
+    position: absolute;
+    white-space: pre;
+    font-size: 1.1em;
+}
+h6 span.position{
+    font-size: 1em;
+    color: red;
+}
+.team .container-fluid{
+    padding: 0px;
+}
+div.Board{
+    width: 70vw;
+    margin: 0 auto;
+}
+table.members{
+    margin-top: 2vw;
+}
+table.members td{
+    font-weight:bold;
+    font-size: small;
+} 

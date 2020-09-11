@@ -1058,6 +1058,7 @@ footer a, footer a:visited {
 }
 footer a:hover, footer a:focus {
 	color: white;
+	text-decoration: none;
 }
 footer h3 {
 	font: 13px/24px "raleway-bold", sans-serif;
@@ -1151,7 +1152,7 @@ footer #go-top a:hover {
 	font: 15px/24px "raleway-heavy", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
-	color: #ecf0f1;
+	color: black;
 	margin-bottom: 18px;
 }
 .section-head h1 span {
