@@ -64,4 +64,5 @@ table.members{
 table.members td{
     font-weight:bold;
     font-size: small;
+    text-align: center;
 } 
